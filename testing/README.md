@@ -258,16 +258,6 @@ https://www.lambdatest.com/selenium-playground/
 
 ---
 
-##  Author
-
-**Pooja G**
-
-BE Computer Science Engineering (AI & ML)
-
-Rajalakshmi Institute of Technology
-
-Chennai, Tamil Nadu
-
 ---
 
 ## ⭐ Repository
