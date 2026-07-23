@@ -207,13 +207,7 @@ This project demonstrates:
 
 ---
 
-## Author
 
-**Pooja G**
-
-BE Computer Science Engineering (Artificial Intelligence & Machine Learning)
-
-Rajalakshmi Institute of Technology
 
 ---
 
